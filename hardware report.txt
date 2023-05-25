@@ -1,0 +1,28 @@
+Macbook pro 13" retina 2015
+
+CPU: 2,7 GHz Dual-Core Intel Core i5
+
+RAM: 8 GB 1867 MHz DDR3
+
+HD: Macintosh HD 
+
+Graphics: Intel Iris Graphics 6100 1536 MB
+
+Hardware Overview:
+
+  Model Name:	MacBook Pro
+  Model Identifier:	MacBookPro12,1
+  Processor Name:	Dual-Core Intel Core i5
+  Processor Speed:	2,7 GHz
+  Number of Processors:	1
+  Total Number of Cores:	2
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	3 MB
+  Hyper-Threading Technology:	Enabled
+  Memory:	8 GB
+  System Firmware Version:	476.0.0.0.0
+  OS Loader Version:	540.120.3~22
+  SMC Version (system):	2.28f7
+  Serial Number (system):	C02QT1F1FVH5
+  Hardware UUID:	F5973F06-338F-5CFB-B7C9-818C26E81AAF
+  Provisioning UDID:	F5973F06-338F-5CFB-B7C9-818C26E81AAF
